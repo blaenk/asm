@@ -1,0 +1,215 @@
+Run 1: First:   7  3
+       Second:  2  5
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: 7
+Do you have more data (Y or N)?: y
+Enter next value: 3
+Do you have more data (Y or N)?: N
+Your array is 7 3 
+Enter data for the second array. For correct results you must enter exactly 2 values: 2
+Do you have more data (Y or N)?: y
+Enter next value: 5
+Do you have more data (Y or N)?: N
+Your array is 2 5 
+The sum of the arrays is 9 8 
+The sorted array is 8 9 
+The dot product of the two arrays is: 29
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+
+Run 2: First:   -6 12  5
+       Second:  10 7  -18
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: -6
+Do you have more data (Y or N)?: y
+Enter next value: 12
+Do you have more data (Y or N)?: y
+Enter next value: 5
+Do you have more data (Y or N)?: N
+Your array is -6 12 5 
+Enter data for the second array. For correct results you must enter exactly 3 values: 10
+Do you have more data (Y or N)?: y
+Enter next value: 7
+Do you have more data (Y or N)?: y
+Enter next value: -18
+Do you have more data (Y or N)?: N
+Your array is 10 7 -18 
+The sum of the arrays is 4 19 -13 
+The sorted array is -13 4 19 
+The dot product of the two arrays is: -66
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+
+Run 3:  First:    2   -2    2   2   2   -2    2
+        Second:   -3  -2    3   3   3   -3    3
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: 2
+Do you have more data (Y or N)?: y
+Enter next value: -2
+Do you have more data (Y or N)?: y
+Enter next value: 2
+Do you have more data (Y or N)?: y
+Enter next value: 2
+Do you have more data (Y or N)?: y
+Enter next value: 2
+Do you have more data (Y or N)?: y
+Enter next value: -2
+Do you have more data (Y or N)?: y
+Enter next value: 2
+Do you have more data (Y or N)?: N
+Your array is 2 -2 2 2 2 -2 2 
+Enter data for the second array. For correct results you must enter exactly 7 values: -3
+Do you have more data (Y or N)?: y
+Enter next value: -2
+Do you have more data (Y or N)?: y
+Enter next value: 3
+Do you have more data (Y or N)?: y
+Enter next value: 3
+Do you have more data (Y or N)?: y
+Enter next value: 3
+Do you have more data (Y or N)?: y
+Enter next value: -3
+Do you have more data (Y or N)?: y
+Enter next value: 3
+Do you have more data (Y or N)?: N
+Your array is -3 -2 3 3 3 -3 3 
+The sum of the arrays is -1 -4 5 5 5 -5 5 
+The sorted array is -5 -4 -1 5 5 5 5 
+The dot product of the two arrays is: 28
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+
+Run 4: First:  1   2   3   4   5   6    7    8   9 
+       Second: 4   4   4   6   6   6   -8   -8   9
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: 1
+Do you have more data (Y or N)?: y
+Enter next value: 2
+Do you have more data (Y or N)?: y
+Enter next value: 3
+Do you have more data (Y or N)?: y
+Enter next value: 4
+Do you have more data (Y or N)?: y
+Enter next value: 5
+Do you have more data (Y or N)?: y
+Enter next value: 6
+Do you have more data (Y or N)?: y
+Enter next value: 7
+Do you have more data (Y or N)?: y
+Enter next value: 8
+Do you have more data (Y or N)?: y
+Enter next value: 9
+Do you have more data (Y or N)?: N
+Your array is 1 2 3 4 5 6 7 8 9 
+Enter data for the second array. For correct results you must enter exactly 9 values: 4
+Do you have more data (Y or N)?: y
+Enter next value: 4
+Do you have more data (Y or N)?: y
+Enter next value: 4
+Do you have more data (Y or N)?: y
+Enter next value: 6
+Do you have more data (Y or N)?: y
+Enter next value: 6
+Do you have more data (Y or N)?: y
+Enter next value: 6
+Do you have more data (Y or N)?: y
+Enter next value: -8
+Do you have more data (Y or N)?: y
+Enter next value: -8
+Do you have more data (Y or N)?: y
+Enter next value: 9
+Do you have more data (Y or N)?: N
+Your array is 4 4 4 6 6 6 -8 -8 9 
+The sum of the arrays is 5 6 7 10 11 12 -1 0 18 
+The sorted array is -1 0 5 6 7 10 11 12 18 
+The dot product of the two arrays is: 75
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+
+Run 6:    First:   -234   786   -599   620   -840
+          Second:  -106   -182   344   903   -112
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: -234
+Do you have more data (Y or N)?: y
+Enter next value: 786
+Do you have more data (Y or N)?: y
+Enter next value: -599
+Do you have more data (Y or N)?: y
+Enter next value: 620
+Do you have more data (Y or N)?: y
+Enter next value: -840
+Do you have more data (Y or N)?: N
+Your array is -234 786 -599 620 -840 
+Enter data for the second array. For correct results you must enter exactly 5 values: -106
+Do you have more data (Y or N)?: y
+Enter next value: -182
+Do you have more data (Y or N)?: y
+Enter next value: 344
+Do you have more data (Y or N)?: y
+Enter next value: 903
+Do you have more data (Y or N)?: y
+Enter next value: -112
+Do you have more data (Y or N)?: N
+Your array is -106 -182 344 903 -112 
+The sum of the arrays is -340 604 -255 1523 -952 
+The sorted array is -952 -340 -255 604 1523 
+The dot product of the two arrays is: 329636
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+
+Run 7:    First:    7 000 007     5 000 005      1 200 012
+          Second:   8 000 008     9 000 009      6 000 006
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: 7000007
+Do you have more data (Y or N)?: y
+Enter next value: 5000005
+Do you have more data (Y or N)?: y
+Enter next value: 1200012
+Do you have more data (Y or N)?: N
+Your array is 7000007 5000005 1200012 
+Enter data for the second array. For correct results you must enter exactly 3 values: 8000008
+Do you have more data (Y or N)?: y
+Enter next value: 9000009
+Do you have more data (Y or N)?: y
+Enter next value: 6000006
+Do you have more data (Y or N)?: N
+Your array is 8000008 9000009 6000006 
+The sum of the arrays is 15000015 14000014 7200018 
+The sorted array is 7200018 14000014 15000015 
+The dot product of the two arrays is: 1465079341
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+
+Run 8:    First:    6 000 000 016      1 000 000 011
+          Second:   2 000 000 012       3 000 000 003
+
+CPSC240 Assignment 2 by Jorge Pena
+Welcome to array processing for integer data
+Enter data for the first array: 6000000016
+Do you have more data (Y or N)?: y
+Enter next value: 1000000011
+Do you have more data (Y or N)?: N
+Your array is 6000000016 1000000011 
+Enter data for the second array. For correct results you must enter exactly 2 values: 2000000012
+Do you have more data (Y or N)?: y
+Enter next value: 3000000003
+Do you have more data (Y or N)?: N
+Your array is 2000000012 3000000003 
+The sum of the arrays is 8000000028 4000000014 
+The sorted array is 4000000014 -589934564 
+The dot product of the two arrays is: 1736603873
+I hope you enjoyed my fast array program as much as I enjoyed making it.
+The return code is 0
+

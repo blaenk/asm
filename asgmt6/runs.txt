@@ -1,0 +1,509 @@
+RUN 1
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 1.0
+    Are there more inputs?: Y
+    Enter float number: 2.0
+    Are there more inputs?: Y
+    Enter float number: 3.0
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 8.0
+    Are there more inputs?: Y
+    Enter float number: 6.0
+    Are there more inputs?: Y
+    Enter float number: 4.0
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    1.000000000000000
+    2.000000000000000
+    3.000000000000000
+    The sum is 6.000000000000000
+    The smallest value is 1.000000000000000
+    The largest value is 3.000000000000000
+    The arithmetic mean is 2.000000000000000
+    The variance is 1.000000000000000
+    The standard deviation is 1.000000000000000
+    The geometric mean is 1.817120592832140
+
+    Second array statistical analysis
+    The array is
+    8.000000000000000
+    6.000000000000000
+    4.000000000000000
+    The sum is 18.000000000000000
+    The smallest value is 4.000000000000000
+    The largest value is 8.000000000000000
+    The arithmetic mean is 6.000000000000000
+    The variance is 4.000000000000000
+    The standard deviation is 2.000000000000000
+    The geometric mean is 5.768998281229633
+
+    The concatenated array is
+    1.000000000000000
+    2.000000000000000
+    3.000000000000000
+    8.000000000000000
+    6.000000000000000
+    4.000000000000000
+    The sum is 24.000000000000000
+    The smallest value is 1.000000000000000
+    The largest value is 8.000000000000000
+    The arithmetic mean is 4.000000000000000
+    The variance is 6.800000000000000
+    The standard deviation is 2.607680962081059
+    The geometric mean is 3.237740813721133
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+
+RUN 2
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 1.0
+    Are there more inputs?: Y
+    Enter float number: 1.0
+    Are there more inputs?: Y
+    Enter float number: 1.0
+    Are there more inputs?: Y
+    Enter float number: 1.0
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 5.0
+    Are there more inputs?: Y
+    Enter float number: 5.0
+    Are there more inputs?: Y
+    Enter float number: 5.0
+    Are there more inputs?: Y
+    Enter float number: 5.0
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    1.000000000000000
+    1.000000000000000
+    1.000000000000000
+    1.000000000000000
+    The sum is 4.000000000000000
+    The smallest value is 1.000000000000000
+    The largest value is 1.000000000000000
+    The arithmetic mean is 1.000000000000000
+    The variance is 0.000000000000000
+    The standard deviation is 0.000000000000000
+    The geometric mean is 1.000000000000000
+
+    Second array statistical analysis
+    The array is
+    5.000000000000000
+    5.000000000000000
+    5.000000000000000
+    5.000000000000000
+    The sum is 20.000000000000000
+    The smallest value is 5.000000000000000
+    The largest value is 5.000000000000000
+    The arithmetic mean is 5.000000000000000
+    The variance is 0.000000000000000
+    The standard deviation is 0.000000000000000
+    The geometric mean is 5.000000000000000
+
+    The concatenated array is
+    1.000000000000000
+    1.000000000000000
+    1.000000000000000
+    1.000000000000000
+    5.000000000000000
+    5.000000000000000
+    5.000000000000000
+    5.000000000000000
+    The sum is 24.000000000000000
+    The smallest value is 1.000000000000000
+    The largest value is 5.000000000000000
+    The arithmetic mean is 3.000000000000000
+    The variance is 4.571428571428571
+    The standard deviation is 2.138089935299395
+    The geometric mean is 2.236067977499790
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+
+RUN 3
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 40.5
+    Are there more inputs?: Y
+    Enter float number: 22.8
+    Are there more inputs?: Y
+    Enter float number: 55.2
+    Are there more inputs?: Y
+    Enter float number: 30.9
+    Are there more inputs?: Y
+    Enter float number: 60.3
+    Are there more inputs?: Y
+    Enter float number: 44.6
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 16.8
+    Are there more inputs?: Y
+    Enter float number: 10.2
+    Are there more inputs?: Y
+    Enter float number: 6.9
+    Are there more inputs?: Y
+    Enter float number: 10.7
+    Are there more inputs?: Y
+    Enter float number: 77.8
+    Are there more inputs?: Y
+    Enter float number: 11.6
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    40.500000000000000
+    22.800000000000001
+    55.200000000000003
+    30.899999999999999
+    60.299999999999997
+    44.600000000000001
+    The sum is 254.299999999999983
+    The smallest value is 22.800000000000001
+    The largest value is 60.299999999999997
+    The arithmetic mean is 42.383333333333333
+    The variance is 201.821666666666658
+    The standard deviation is 14.206395273490973
+    The geometric mean is 40.224433185125704
+
+    Second array statistical analysis
+    The array is
+    16.800000000000001
+    10.199999999999999
+    6.900000000000000
+    10.699999999999999
+    77.799999999999997
+    11.600000000000000
+    The sum is 134.000000000000000
+    The smallest value is 6.900000000000000
+    The largest value is 77.799999999999997
+    The arithmetic mean is 22.333333333333332
+    The variance is 748.622666666666760
+    The standard deviation is 27.360969768388451
+    The geometric mean is 15.005943883482139
+
+    The concatenated array is
+    40.500000000000000
+    22.800000000000001
+    55.200000000000003
+    30.899999999999999
+    60.299999999999997
+    44.600000000000001
+    16.800000000000001
+    10.199999999999999
+    6.900000000000000
+    10.699999999999999
+    77.799999999999997
+    11.600000000000000
+    The sum is 388.299999999999955
+    The smallest value is 6.900000000000000
+    The largest value is 77.799999999999997
+    The arithmetic mean is 32.358333333333327
+    The variance is 541.657196969696884
+    The standard deviation is 23.273529963666810
+    The geometric mean is 24.568385928279316
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+
+RUN 4
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 0.00000000952
+    Are there more inputs?: Y
+    Enter float number: 0.00000000121
+    Are there more inputs?: Y
+    Enter float number: 0.000000003788
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 0.0000000009
+    Are there more inputs?: Y
+    Enter float number: 0.00000000046
+    Are there more inputs?: Y
+    Enter float number: 0.000000000781
+    Are there more inputs?: Y
+    Enter float number: 0.000000000155
+    Are there more inputs?: Y
+    Enter float number: 0.000000000888
+    Are there more inputs?: Y
+    Enter float number: 0.000000000122
+    Are there more inputs?: Y
+    Enter float number: 0.000000000123
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    0.000000009520000
+    0.000000001210000
+    0.000000003788000
+    The sum is 0.000000014518000
+    The smallest value is 0.000000001210000
+    The largest value is 0.000000009520000
+    The arithmetic mean is 0.000000004839333
+    The variance is 0.000000000000000
+    The standard deviation is 0.000000004253587
+    The geometric mean is 0.000000003520552
+
+    Second array statistical analysis
+    The array is
+    0.000000000900000
+    0.000000000460000
+    0.000000000781000
+    0.000000000155000
+    0.000000000888000
+    0.000000000122000
+    0.000000000123000
+    The sum is 0.000000003429000
+    The smallest value is 0.000000000122000
+    The largest value is 0.000000000900000
+    The arithmetic mean is 0.000000000489857
+    The variance is 0.000000000000000
+    The standard deviation is 0.000000000363873
+    The geometric mean is 0.000000000351868
+
+    The concatenated array is
+    0.000000009520000
+    0.000000001210000
+    0.000000003788000
+    0.000000000900000
+    0.000000000460000
+    0.000000000781000
+    0.000000000155000
+    0.000000000888000
+    0.000000000122000
+    0.000000000123000
+    The sum is 0.000000017947000
+    The smallest value is 0.000000000122000
+    The largest value is 0.000000009520000
+    The arithmetic mean is 0.000000001794700
+    The variance is 0.000000000000000
+    The standard deviation is 0.000000002919439
+    The geometric mean is 0.000000000702181
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+
+RUN 5
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 1000000.5
+    Are there more inputs?: Y
+    Enter float number: 2000000.9
+    Are there more inputs?: Y
+    Enter float number: 7000000.6
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 0.000000004833333
+    Are there more inputs?: Y
+    Enter float number: 0.000000001111111
+    Are there more inputs?: Y
+    Enter float number: 0.000000004833334
+    Are there more inputs?: Y
+    Enter float number: 0.000000000222555
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    1000000.500000000000000
+    2000000.899999999906868
+    7000000.599999999627471
+    The sum is 10000002.000000000000000
+    The smallest value is 1000000.500000000000000
+    The largest value is 7000000.599999999627471
+    The arithmetic mean is 3333334.000000000000000
+    The variance is 10333333166666.708984375000000
+    The standard deviation is 3214550.227740532252938
+    The geometric mean is 2410143.096248111221939
+
+    Second array statistical analysis
+    The array is
+    0.000000004833333
+    0.000000001111111
+    0.000000004833334
+    0.000000000222555
+    The sum is 0.000000011000333
+    The smallest value is 0.000000000222555
+    The largest value is 0.000000004833334
+    The arithmetic mean is 0.000000002750083
+    The variance is 0.000000000000000
+    The standard deviation is 0.000000002432728
+    The geometric mean is 0.000000001550323
+
+    The concatenated array is
+    1000000.500000000000000
+    2000000.899999999906868
+    7000000.599999999627471
+    0.000000004833333
+    0.000000001111111
+    0.000000004833334
+    0.000000000222555
+    The sum is 10000002.000000013038516
+    The smallest value is 0.000000000222555
+    The largest value is 7000000.599999999627471
+    The arithmetic mean is 1428571.714285716181621
+    The variance is 6619048833333.467773437500000
+    The standard deviation is 2572751.218702163547277
+    The geometric mean is 0.005024775786577
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+
+RUN 6
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 9000000000.00075
+    Are there more inputs?: Y
+    Enter float number: 8000000000.00046
+    Are there more inputs?: Y
+    Enter float number: 1.00000000074255
+    Are there more inputs?: Y
+    Enter float number: 1.00000000099933
+    Are there more inputs?: Y
+    Enter float number: 1.000000000088777
+    Are there more inputs?: Y
+    Enter float number: 1.000000000099999
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 2.00000000083214
+    Are there more inputs?: Y
+    Enter float number: 5.00000000033366
+    Are there more inputs?: Y
+    Enter float number: 1.00000000022299
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    9000000000.000749588012695
+    8000000000.000459671020508
+    1.000000000742550
+    1.000000000999330
+    1.000000000088777
+    1.000000000099999
+    The sum is 17000000004.001209259033203
+    The smallest value is 1.000000000088777
+    The largest value is 9000000000.000749588012695
+    The arithmetic mean is 2833333334.000201702117920
+    The variance is 19366666662136131584.000000000000000
+    The standard deviation is 4400757510.035758972167969
+    The geometric mean is 2039.648903311862568
+
+    Second array statistical analysis
+    The array is
+    2.000000000832140
+    5.000000000333660
+    1.000000000222990
+    The sum is 8.000000001388790
+    The smallest value is 1.000000000222990
+    The largest value is 5.000000000333660
+    The arithmetic mean is 2.666666667129597
+    The variance is 4.333333333185464
+    The standard deviation is 2.081665999430616
+    The geometric mean is 2.154434690538745
+
+    The concatenated array is
+    9000000000.000749588012695
+    8000000000.000459671020508
+    1.000000000742550
+    1.000000000999330
+    1.000000000088777
+    1.000000000099999
+    2.000000000832140
+    5.000000000333660
+    1.000000000222990
+    The sum is 17000000012.001209259033203
+    The smallest value is 1.000000000088777
+    The largest value is 9000000000.000749588012695
+    The arithmetic mean is 1888888890.222356557846069
+    The variance is 14111111105446481920.000000000000000
+    The standard deviation is 3756475889.107566356658936
+    The geometric mean is 207.721470610978372
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+
+RUN 7
+    Welcome to Jorge Pena's Statistical Analyzer.
+
+    Please enter the first array.
+    Enter float number: 8888000000.000339
+    Are there more inputs?: Y
+    Enter float number: 8888000000.000224
+    Are there more inputs?: Y
+    Enter float number: 8888000000.000117
+    Are there more inputs?: N
+
+    Please enter the second array.
+    Enter float number: 6666000000.000444
+    Are there more inputs?: Y
+    Enter float number: 5555000000.000663
+    Are there more inputs?: Y
+    Enter float number: 8888000000.000224
+    Are there more inputs?: Y
+    Enter float number: 5555000000.000555
+    Are there more inputs?: N
+
+    First array statistical analysis
+    The array is
+    8888000000.000339508056641
+    8888000000.000223159790039
+    8888000000.000116348266602
+    The sum is 26664000000.000679016113281
+    The smallest value is 8888000000.000116348266602
+    The largest value is 8888000000.000339508056641
+    The arithmetic mean is 8888000000.000226974487305
+    The variance is 0.000000012458258
+    The standard deviation is 0.000111616568774
+    The geometric mean is 8888000000.000215530395508
+
+    Second array statistical analysis
+    The array is
+    6666000000.000444412231445
+    5555000000.000662803649902
+    8888000000.000223159790039
+    5555000000.000555038452148
+    The sum is 26664000000.001884460449219
+    The smallest value is 5555000000.000555038452148
+    The largest value is 8888000000.000223159790039
+    The arithmetic mean is 6666000000.000471115112305
+    The variance is 2468641999999428608.000000000000000
+    The standard deviation is 1571191267.796326875686646
+    The geometric mean is 6538970385.082894325256348
+
+    The concatenated array is
+    8888000000.000339508056641
+    8888000000.000223159790039
+    8888000000.000116348266602
+    6666000000.000444412231445
+    5555000000.000662803649902
+    8888000000.000223159790039
+    5555000000.000555038452148
+    The sum is 53328000000.002563476562500
+    The smallest value is 5555000000.000555038452148
+    The largest value is 8888000000.000339508056641
+    The arithmetic mean is 7618285714.286080360412598
+    The variance is 2644973571427974656.000000000000000
+    The standard deviation is 1626337471.568547010421753
+    The geometric mean is 7458228072.453555107116699
+
+    Statistical analysis will now terminate and return to the main driver.
+    Have a nice day. The return code is 0. Bye
+

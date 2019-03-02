@@ -1,0 +1,28 @@
+blaenk @ server ➜ ~/asm/asgmt2 λ ls -l
+total 132
+-rw-rw-r-- 1 blaenk  2585 2012-02-21 12:34 addvectors.lis
+-rw-rw-r-- 1 blaenk   912 2012-02-21 12:34 addvectors.o
+-rw-r--r-- 1 blaenk  1069 2012-02-21 12:22 addvectors.s
+-rwxrwxr-x 1 blaenk 10524 2012-02-21 12:34 asgmt2.out
+-rw-rw-r-- 1 blaenk  3808 2012-02-21 12:34 dotproduct.lis
+-rw-rw-r-- 1 blaenk  1136 2012-02-21 12:34 dotproduct.o
+-rw-r--r-- 1 blaenk  1508 2012-02-21 12:22 dotproduct.s
+-rw-r--r-- 1 blaenk   498 2012-02-21 12:22 driver.c
+-rw-rw-r-- 1 blaenk  1736 2012-02-21 12:34 driver.o
+-rw-rw-r-- 1 blaenk 14568 2012-02-21 12:34 main.lis
+-rw-rw-r-- 1 blaenk  3712 2012-02-21 12:34 main.o
+-rw-r--r-- 1 blaenk  5740 2012-02-21 12:22 main.s
+-rw-r--r-- 1 blaenk  1373 2012-02-21 12:22 Makefile
+-rw-rw-r-- 1 blaenk  2800 2012-02-21 12:34 multiplyvectors.lis
+-rw-rw-r-- 1 blaenk   912 2012-02-21 12:34 multiplyvectors.o
+-rw-r--r-- 1 blaenk  1124 2012-02-21 12:22 multiplyvectors.s
+-rw-rw-r-- 1 blaenk  6346 2012-02-21 12:34 readintarray.lis
+-rw-rw-r-- 1 blaenk  1808 2012-02-21 12:34 readintarray.o
+-rw-r--r-- 1 blaenk  2386 2012-02-21 12:22 readintarray.s
+-rw-r--r-- 1 blaenk   783 2012-02-21 12:22 sortintarray.c
+-rw-rw-r-- 1 blaenk  1432 2012-02-21 12:34 sortintarray.o
+-rw-r--r-- 1 blaenk   528 2012-02-21 12:22 sumarray.c
+-rw-rw-r-- 1 blaenk  1296 2012-02-21 12:34 sumarray.o
+-rw-rw-r-- 1 blaenk  3166 2012-02-21 12:34 writeintarray.lis
+-rw-rw-r-- 1 blaenk  1200 2012-02-21 12:34 writeintarray.o
+-rw-r--r-- 1 blaenk  1186 2012-02-21 12:22 writeintarray.s

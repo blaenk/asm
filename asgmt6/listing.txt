@@ -1,0 +1,32 @@
+jorge @ server ➜ ~/asm/asgmt6 λ ls -l
+total 204
+-rw-rw-r-- 1 jorge  1664 2012-05-08 08:21 appendarrays.o
+-rw-r--r-- 1 jorge  3954 2012-05-08 05:18 appendarrays.s
+-rwxrwxr-x 1 jorge 30956 2012-05-08 08:21 asgmt6.out
+-rw-r--r-- 1 jorge   589 2012-05-07 08:18 driver.c
+-rw-rw-r-- 1 jorge  1776 2012-05-08 08:21 driver.o
+-rw-r--r-- 1 jorge   788 2012-05-08 05:12 getgeometricmean.c
+-rw-rw-r-- 1 jorge  1720 2012-05-08 08:21 getgeometricmean.o
+-rw-r--r-- 1 jorge   727 2012-05-08 05:08 getmax.c
+-rw-rw-r-- 1 jorge  1336 2012-05-08 08:21 getmax.o
+-rw-r--r-- 1 jorge   636 2012-05-08 05:09 getmean.cpp
+-rw-rw-r-- 1 jorge  1344 2012-05-08 08:21 getmean.o
+-rw-rw-r-- 1 jorge  1104 2012-05-08 08:21 getmin.o
+-rw-r--r-- 1 jorge  1557 2012-05-08 05:07 getmin.s
+-rw-rw-r-- 1 jorge   864 2012-05-08 08:21 getstandarddeviation.o
+-rw-r--r-- 1 jorge   953 2012-05-08 05:11 getstandarddeviation.s
+-rw-r--r-- 1 jorge   846 2012-05-08 05:10 getvariance.cpp
+-rw-rw-r-- 1 jorge  2344 2012-05-08 08:21 getvariance.o
+-rw-r--r-- 1 jorge     0 2012-05-07 08:16 listing.txt
+-rw-rw-r-- 1 jorge  8608 2012-05-08 08:21 main.o
+-rw-r--r-- 1 jorge 23178 2012-05-08 05:32 main.s
+-rw-r--r-- 1 jorge  1531 2012-05-08 05:32 Makefile
+-rw-rw-r-- 1 jorge  1232 2012-05-08 08:21 outputarray.o
+-rw-r--r-- 1 jorge  1612 2012-05-08 04:57 outputarray.s
+-rw-r--r-- 1 jorge  1648 2012-05-08 04:54 readarray.cpp
+-rw-rw-r-- 1 jorge 39048 2012-05-08 08:21 readarray.o
+-rw-r--r-- 1 jorge  3620 2012-05-07 08:16 runs.txt
+-rw-r--r-- 1 jorge   544 2012-05-08 05:03 sumarray.c
+-rw-rw-r-- 1 jorge  1312 2012-05-08 08:21 sumarray.o
+-rwxr--r-- 1 jorge    79 2012-05-07 09:17 sync.sh
+

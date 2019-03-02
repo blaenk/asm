@@ -1,0 +1,33 @@
+Example run with showregisters to inspect rdx:
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 2.5
+Register Dump # 3
+rax = 000000001ae3d1af rbx = 00000000756e6547 rcx = 000000006c65746e rdx = 000000000086d4f4
+rsi = 0000000000000001 rdi = 00007fff05788530 rbp = 00007fff05788b00 rsp = 00007fff05788aa8
+r8  = 00007fff05788590 r9  = 0000000000000000 r10 = 0000000000000001 r11 = 0000000000000001
+r12 = 00000000004004d0 r13 = 00007fff05788c10 r14 = 0000000000000000 r15 = 0000000000000000
+rip = 000000000040066d
+rflags = 0000000000000246 of = 0 sf = 0 zf = 1 af = 0 pf = 1 cf = 0
+The current time on the clock is 37951791767474607
+The result has been computed and the clock shows 37951791767558910
+The smallest number of terms with harmonic sum greater than x is 7, and that sum is 2.59285714285714285750
+The computation required 84303 clock cycles, which is 35126.25000000000130029321 ns on my 2.4 GHz machine.
+
+Have a harmonic day.
+
+Explanation:
+
+The Intel x86-64 Architecture Manual [ http://download.intel.com/products/processor/manual/325462.pdf ] says
+in Volume 2B, page 4-461, that the lower-order 32-bits of the MSR are stored in RDX. Originally, the MSR was
+stored as a 64-bit number, and on 32-bit machines this meant that it was represented as EDX:EAX, with the
+higher-order 32-bits were stored in EDX and the lower-order 32-bits stored in EAX.
+
+On 64-bit architectures, this was not changed, and the values continue to be stored in the same registers, but in
+their 64-bit equivalents: RDX:RAX. That is, there are still only 32-bit values in either one. Intel says that on
+64-bit architectures, the higher-order 32-bits of each register are cleared.
+
+The takeaway from this is that in order to retrieve the full 64-bit number, one can shift RDX to the left by 32-bits,
+and then OR RAX with this result, such that the higher-order 32-bits of RDX merge with the lower-order 32-bits of RAX.
+
+This is what I did in my project.

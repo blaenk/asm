@@ -1,0 +1,22 @@
+Author: Jorge Peña
+Email: blaenkdenum@csu.fullerton.edu
+Course: CPSC240
+Assignment: #5 Harmonic Series
+Due: 2012-Apr-3
+File: title.txt
+Purpose: introduce the harmonic series
+
+Harmonic Series is defined as the infinite series of numbers from n = 1 to infinity where 1/n.
+It is described as divergent, because as the number of terms n increases, the sum grows slower.
+This quality is apparent in the sample runs, where, as the input limit increased, so did the running time,
+seemingly exponentially.
+
+The algorithm utilizes the x87 FPU stack, and the stack is structured such that the top (st0)
+will always store the current term as it is being computed, st1 stores the total sum up to that point, st2 stores
+the user-input limit, and st3 stores the number 1.0.
+
+On each iteration, the term number n (i.e. 3) is pushed on the stack. st3 (1.0) is divided by that number at
+the top of the stack and stored in-place at st0. That result is then added to st1, the total sum, and then it (st0)
+is popped from the stack so that the total sum is the top of the stack. The top is then compared to the user-input
+limit at what is now st1. If the total is greater than the limit, then the term number has been found. Otherwise,
+it loops to apply another partial sum.

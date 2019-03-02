@@ -1,0 +1,67 @@
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 2.5
+The current time on the clock is 37938904036429815
+The result has been computed and the clock shows 37938904036480818
+The smallest number of terms with harmonic sum greater than x is 7, and that sum is 2.59285714285714285750
+The computation required 51003 clock cycles, which is 21251.25000000000078692608 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 4.0
+The current time on the clock is 37938944309795064
+The result has been computed and the clock shows 37938944309841675
+The smallest number of terms with harmonic sum greater than x is 31, and that sum is 4.02724519543652010245
+The computation required 46611 clock cycles, which is 19421.25000000000071942452 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 7.5
+The current time on the clock is 37938973926876399
+The result has been computed and the clock shows 37938973927034610
+The smallest number of terms with harmonic sum greater than x is 1015, and that sum is 7.50035208632638779064
+The computation required 158211 clock cycles, which is 65921.25000000000243716158 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 10.8
+The current time on the clock is 37938997764458946
+The result has been computed and the clock shows 37938997766225097
+The smallest number of terms with harmonic sum greater than x is 27523, and that sum is 10.80001112914965320875
+The computation required 1766151 clock cycles, which is 735896.25000000002722799763 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 15.2
+The current time on the clock is 37939025903092011
+The result has been computed and the clock shows 37939026045289518
+The smallest number of terms with harmonic sum greater than x is 2241788, and that sum is 15.20000020765110979645
+The computation required 142197507 clock cycles, which is 59248961.25000000219370122068 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 20.8
+The current time on the clock is 37939060013080329
+The result has been computed and the clock shows 37939098223297809
+The smallest number of terms with harmonic sum greater than x is 606238684, and that sum is 20.80000000020104914365
+The computation required 38210217480 clock cycles, which is 15920923950.00000058952718973160 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Welcome to the harmonic series programmed by Jorge Pena.
+Please enter a real number for x: 24.5
+The current time on the clock is 37939147702492662
+The result has been computed and the clock shows 37940693881253175
+The smallest number of terms with harmonic sum greater than x is 24520720582, and that sum is 24.50000000002495393475
+The computation required 1546178760513 clock cycles, which is 644241150213.75002384185791015625 ns on my 2.4 GHz machine
+
+Have a harmonic day.
+
+Run 8 (x = 30.0) did not complete in time. Given Harmonic Series' divergent quality, as the term count increased,
+it meant that it required more terms to add in order to add 1.0 to the sum. It should indeed be possible
+to compute, however, it went on longer than I could allow it to run for. I had to stop it after 3 hours.
+Up to that point however, no overflow or any other kind of error occurred.

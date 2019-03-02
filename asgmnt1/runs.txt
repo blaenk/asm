@@ -1,0 +1,144 @@
+Run 1: 29   7
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 29
+You entered 29 (signed) decimal = 0x0000000000001d (unsigned) hex
+Enter the second signed integer: 7
+You entered 7 (signed) decimal = 0x00000000000007 (unsigned) hex
+The product is 203 (signed) decimal = 0x000000000000cb (unsigned) hex
+The quotient is 4 (signed) decimal = 0x00000000000004 (unsigned) hex
+The remainder is 1 (signed) decimal = 0x00000000000001 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 2: 107    -8
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 107
+You entered 107 (signed) decimal = 0x0000000000006b (unsigned) hex
+Enter the second signed integer: -8
+You entered -8 (signed) decimal = 0xfffffffffffffff8 (unsigned) hex
+The product is -856 (signed) decimal = 0xfffffffffffffca8 (unsigned) hex
+The quotient is -13 (signed) decimal = 0xfffffffffffffff3 (unsigned) hex
+The remainder is 3 (signed) decimal = 0x00000000000003 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 3: -700   700
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: -700
+You entered -700 (signed) decimal = 0xfffffffffffffd44 (unsigned) hex
+Enter the second signed integer: 700
+You entered 700 (signed) decimal = 0x000000000002bc (unsigned) hex
+The product is -490000 (signed) decimal = 0xfffffffffff885f0 (unsigned) hex
+The quotient is 26352491533870787 (signed) decimal = 0x5d9f7390d2a6c3 (unsigned) hex
+The remainder is 16 (signed) decimal = 0x00000000000010 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 4: -8000    -66
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: -8000
+You entered -8000 (signed) decimal = 0xffffffffffffe0c0 (unsigned) hex
+Enter the second signed integer: -66
+You entered -66 (signed) decimal = 0xffffffffffffffbe (unsigned) hex
+The product is 528000 (signed) decimal = 0x00000000080e80 (unsigned) hex
+The quotient is -279496122328932479 (signed) decimal = 0xfc1f07c1f07c1f81 (unsigned) hex
+The remainder is 2 (signed) decimal = 0x00000000000002 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 5: 57776002200    139899900
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 57776002200
+You entered 57776002200 (signed) decimal = 0x00000d73b7d498 (unsigned) hex
+Enter the second signed integer: 139899900
+You entered 139899900 (signed) decimal = 0x0000000856b3fc (unsigned) hex
+The product is 8082856930179780000 (signed) decimal = 0x702c138d9dab8da0 (unsigned) hex
+The quotient is 412 (signed) decimal = 0x0000000000019c (unsigned) hex
+The remainder is 137243400 (signed) decimal = 0x000000082e2b08 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 6: 9000999000200    -5000400300
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 9000999000200
+You entered 9000999000200 (signed) decimal = 0x00082fb5591888 (unsigned) hex
+Enter the second signed integer: -5000400300
+You entered -5000400300 (signed) decimal = 0xfffffffed5f3f254 (unsigned) hex
+The product requires more than 64 bits. Its value is 0xfffffffffffff6781439dd012b849ca0 (unsigned) hex
+The quotient is -1800 (signed) decimal = 0xfffffffffffff8f8 (unsigned) hex
+The remainder is 278460200 (signed) decimal = 0x0000001098f728 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 7: -200300400500600   -555444000
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: -200300400500600
+You entered -200300400500600 (signed) decimal = 0xffff49d3edc7a088 (unsigned) hex
+Enter the second signed integer: -555444000
+You entered -555444000 (signed) decimal = 0xffffffffdee498e0 (unsigned) hex
+The product requires more than 64 bits. Its value is 0x0000000000178f2e61b1177f1d3700 (unsigned) hex
+The quotient is -33210447449 (signed) decimal = 0xfffffff84480c9a7 (unsigned) hex
+The remainder is 446695016 (signed) decimal = 0x0000001aa00668 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 8: 6700800900100200   35
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 6700800900100200
+You entered 6700800900100200 (signed) decimal = 0x17ce57c95c7068 (unsigned) hex
+Enter the second signed integer: 35
+You entered 35 (signed) decimal = 0x00000000000023 (unsigned) hex
+The product is 234528031503507000 (signed) decimal = 0x341360087a35e38 (unsigned) hex
+The quotient is 191451454288577 (signed) decimal = 0x00ae1fc3ecb2c1 (unsigned) hex
+The remainder is 5 (signed) decimal = 0x00000000000005 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 9: -87500400300200100   453850
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: -87500400300200100
+You entered -87500400300200100 (signed) decimal = 0xfec922d97a66ef5c (unsigned) hex
+Enter the second signed integer: 453850
+You entered 453850 (signed) decimal = 0x0000000006ecda (unsigned) hex
+The product requires more than 64 bits. Its value is 0xfffffffffffff79734810872bc78a458 (unsigned) hex
+The quotient is 40452227990325 (signed) decimal = 0x0024ca84ae0335 (unsigned) hex
+The remainder is 350266 (signed) decimal = 0x0000000005583a (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 10: -33000440005500066000   32020
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: -33000440005500066000
+You entered -1 (signed) decimal = 0xffffffffffffffff (unsigned) hex
+Enter the second signed integer: 32020
+You entered 32020 (signed) decimal = 0x00000000007d14 (unsigned) hex
+The product is -32020 (signed) decimal = 0xffffffffffff82ec (unsigned) hex
+The quotient is 576100689372565 (signed) decimal = 0x020bf5e4f1e595 (unsigned) hex
+The remainder is 20315 (signed) decimal = 0x00000000004f5b (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 11: 40880000333300004444    -9600480
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 40880000333300004444
+You entered -1 (signed) decimal = 0xffffffffffffffff (unsigned) hex
+Enter the second signed integer: -9600480
+You entered -9600480 (signed) decimal = 0xffffffffff6d8220 (unsigned) hex
+The product is 9600480 (signed) decimal = 0x00000000927de0 (unsigned) hex
+The quotient is -1921439769022 (signed) decimal = 0xfffffe40a143de42 (unsigned) hex
+The remainder is 9221055 (signed) decimal = 0x000000008cb3bf (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+
+Run 12: 4000    5000
+Welcome to Jorge's arithmetic assignment
+Enter the first signed integer: 4000
+You entered 4000 (signed) decimal = 0x00000000000fa0 (unsigned) hex
+Enter the second signed integer: 5000
+You entered 5000 (signed) decimal = 0x00000000001388 (unsigned) hex
+The product is 20000000 (signed) decimal = 0x00000001312d00 (unsigned) hex
+The quotient is 0 (signed) decimal = 0000000000000000 (unsigned) hex
+The remainder is 4000 (signed) decimal = 0x00000000000fa0 (unsigned) hex
+I hope you enjoyed using my program as much as I enjoyed making it. Bye
+The result code is 0
+

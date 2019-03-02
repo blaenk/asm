@@ -1,0 +1,115 @@
+Welcome to CPSC 240 Assignment 4
+This program will find the area of your triangle.
+Please enter the length of the first side and press enter: 3.0
+You entered 3.00000000000000000000
+Please enter the length of the second side and press enter: 4.0
+You entered 4.00000000000000000000
+Please enter the length of the third side and press enter: 5.0
+You entered 5.00000000000000000000
+The area of this triangle is 6.00000000000000000000
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 4.0
+You entered 4.00000000000000000000
+Please enter the length of the second side and press enter: 5.0
+You entered 5.00000000000000000000
+Please enter the length of the third side and press enter: 10.0
+You entered 10.00000000000000000000
+The area cannot be computed. Check your data and try again.
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 20.0
+You entered 20.00000000000000000000
+Please enter the length of the second side and press enter: 99.0
+You entered 99.00000000000000000000
+Please enter the length of the third side and press enter: 101.0
+You entered 101.00000000000000000000
+The area of this triangle is 990.00000000000000000000
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 30.6
+You entered 30.60000000000000142109
+Please enter the length of the second side and press enter: 42.7
+You entered 42.70000000000000284217
+Please enter the length of the third side and press enter: 77.8
+You entered 77.79999999999999715783
+The area cannot be computed. Check your data and try again.
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 1050.75
+You entered 1050.75000000000000000000
+Please enter the length of the second side and press enter: 390.609
+You entered 390.60899999999998044586
+Please enter the length of the third side and press enter: 908.772
+You entered 908.77200000000004820322
+The area of this triangle is 174686.11817148330737836659
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 20400.0
+You entered 20400.00000000000000000000
+Please enter the length of the second side and press enter: 25300.0
+You entered 25300.00000000000000000000
+Please enter the length of the third side and press enter: 32500.0
+You entered 32500.00000000000000000000
+The area of this triangle is 258060000.00000000000000000000
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 20400.5
+You entered 20400.50000000000000000000
+Please enter the length of the second side and press enter: 25300.1
+You entered 25300.09999999999854480848
+Please enter the length of the third side and press enter: 32500.7
+You entered 32500.70000000000072759576
+The area of this triangle is 258067344.97636795043945312500
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 0.000333444
+You entered 0.00033344400000000001
+Please enter the length of the second side and press enter: 0.00229955
+You entered 0.00229955000000000003
+Please enter the length of the third side and press enter: 0.0000330066
+You entered 0.00003300660000000000
+The area cannot be computed. Check your data and try again.
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 3000555.1
+You entered 3000555.10000000009313225746
+Please enter the length of the second side and press enter: 6999000.2
+You entered 6999000.20000000018626451492
+Please enter the length of the third side and press enter: 8444000.9
+You entered 8444000.90000000037252902985
+The area of this triangle is 9959117524903.98632812500000000000
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 1.0004
+You entered 1.00039999999999995595
+Please enter the length of the second side and press enter: 1.0008
+You entered 1.00079999999999991189
+Please enter the length of the third side and press enter: 2.0000002
+You entered 2.00000020000000011677
+The area of this triangle is 0.03464332824679758338
+
+Do you have more input data (Y or N) Y
+
+Please enter the length of the first side and press enter: 5000.05
+You entered 5000.05000000000018189894
+Please enter the length of the second side and press enter: 6000.06
+You entered 6000.06000000000040017767
+Please enter the length of the third side and press enter: 7000.07
+You entered 7000.06999999999970896170
+The area of this triangle is 14697232.39693789742887020111
+
+Do you have more input data (Y or N) N
+I hope you enjoyed your triangles.
+This program was brought to you by Jorge Pena. Bye
+The return code is 0
+

@@ -1,0 +1,10 @@
+jorge @ localhost ➜ ~/asm/asgmt4 λ ls -l
+total 76
+-rw-rw-r-- 1 jorge 21928 2012-04-03 07:14 area.lis
+-rw-rw-r-- 1 jorge  4144 2012-04-03 07:14 area.o
+-rw-r--r-- 1 jorge  8952 2012-04-03 07:12 area.s
+-rwxrwxr-x 1 jorge  9727 2012-04-03 07:14 asgmt4.out
+-rw-r--r-- 1 jorge   558 2012-04-03 07:12 driver.c
+-rw-rw-r-- 1 jorge  1744 2012-04-03 07:14 driver.o
+-rw-r--r-- 1 jorge   504 2012-04-03 07:12 Makefile
+-rw-r--r-- 1 jorge  4700 2012-04-03 07:12 runs.txt
